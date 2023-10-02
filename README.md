@@ -1,1 +1,1 @@
-# swed_credit_modeller
+# Credit Risk Modelling
